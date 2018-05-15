@@ -1,0 +1,119 @@
+----------------------------------------------------------------------
+
+			  CALL FOR ABSTRACTS
+
+				SPRING
+		       13. Graduierten-Workshop
+		       über Reaktive Sicherheit
+
+			   17.-18. Juli 2018
+			Regensburg, Deutschland
+
+		  Veranstaltung der Fachgruppe SIDAR
+	       der Gesellschaft für Informatik e.V. (GI)
+
+		 https://spring2018.oth-regensburg.de/
+		mailto: spring2018@oth-regensburg.de.de
+
+----------------------------------------------------------------------
+
+Arbeitest Du auf dem Gebiet der Reaktiven Sicherheit?
+
+Willst Du Dich mit anderen fachlich austauschen?
+
+Dann haben wir etwas für Dich:
+
+Die Fachgruppe SIDAR "Security - Intrusion Detection and Response" der
+Gesellschaft  für Informatik  e.V.  veranstaltet  die  13. SPRING.
+SPRING bietet  Nachwuchswissenschaftlern auf dem  Gebiet der Reaktiven
+Sicherheit eine  Plattform, um themenbezogen Kontakte  über die eigene
+Universität hinaus  zu knüpfen.  2012 findet SPRING  vom 17. bis 18.
+Juli an der OTH Regensburg statt.
+
+Wir  laden  Bachelor-/Masterstudierende   und  Doktoranden  ein,  ihre
+Beiträge  zu   präsentieren.  Die  Vorträge  können   ein  breites
+Spektrum  abdecken, von  noch laufenden  Projekten, die  ggf. erstmals
+einem breiteren  Publikum vorgestellt  werden, bis  zu abgeschlossenen
+Forschungsarbeiten,  die  zeitnah  auch auf  Konferenzen  präsentiert
+wurden  bzw.   werden  sollen  oder  einen   Schwerpunkt  der  eigenen
+Masterarbeit oder Dissertation bilden.
+
+Das Themenspektrum der Reaktiven Sicherheit beinhaltet:
+
+ * Verwundbarkeitsanalyse
+ * Intrusion Detection
+ * Malware Detection
+ * Incident Management
+ * Forensik
+
+Publikation:
+-----------
+
+Die  eingereichten Abstracts  werden gesammelt  und als  zitierfähiger
+technischer  Bericht  im  ELDORADO-System  der  Universitätsbibliothek
+Dortmund elektronisch und recherchierbar veröffentlicht.  Dieser  wird
+zusätzlich im Internet-Portal von SIDAR zugänglich gemacht.
+
+
+Beitragseinreichung:
+-------------------
+
+Einreichung  der  Beiträge in  deutscher  oder  englischer Sprache  im
+Umfang  von 1  Seite A4  im zur  Verfügung gestellten  Template (siehe
+SPRING- Webseite) als PDF- und LaTeX-Datei an:
+
+spring2018@oth-regensburg.de
+
+
+Anmeldung:
+---------
+
+Die Teilnahme ist kostenlos. Jedoch  wird um Anmeldung gebeten, um die
+Anzahl der  Teilnehmerinnen und Teilnehmer zur Planung  von Räumen und
+Verpflegung abschätzen zu können:
+
+spring2018@oth-regensburg.de
+
+
+Termine:
+-------
+
+             25.06.2018: Deadline für die Beitragseinreichung
+             02.07.2018: Benachrichtigung der Autoren
+17.07.2018 - 18.07.2018: Spring 13 in Regensburg
+
+
+Organisation:
+------------
+
+Programm & lokale Organisation:
+Timo Schindler (OTH Regensburg)
+spring2018@oth-regensburg.de
+
+Ansprechpartner innerhalb der Fachgruppe:
+Ulrich Flegel (Infineon)
+ulrich.flegel@udo.edu
+
+
+Veranstalter:
+------------
+
+Ostbayerische Technische Hochschule Regensburg
+Laboratory for Information Security
+Postfach 12 03 27
+93025 Regensburg
+https://seclab.othr.de
+
+
+Aktuelle Informationen:
+----------------------
+
+über die Fachgruppe SIDAR:
+  http://www.gi-fg-sidar.de/
+
+Anmeldung für den Email-Verteiler:
+  http://www.gi-fg-sidar.de/list.html
+
+zu SPRING: https://spring2018.oth-regensburg.de
+
+----------------------------------------------------------------------
