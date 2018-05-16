@@ -27,7 +27,7 @@ Die Fachgruppe SIDAR "Security - Intrusion Detection and Response" der
 Gesellschaft  für Informatik  e.V.  veranstaltet  die  13. SPRING.
 SPRING bietet  Nachwuchswissenschaftlern auf dem  Gebiet der Reaktiven
 Sicherheit eine  Plattform, um themenbezogen Kontakte  über die eigene
-Universität hinaus  zu knüpfen.  2012 findet SPRING  vom 17. bis 18.
+Universität hinaus  zu knüpfen.  2018 findet SPRING  vom 17. bis 18.
 Juli an der OTH Regensburg statt.
 
 Wir  laden  Bachelor-/Masterstudierende   und  Doktoranden  ein,  ihre
@@ -44,7 +44,7 @@ Das Themenspektrum der Reaktiven Sicherheit beinhaltet:
  * Intrusion Detection
  * Malware Detection
  * Incident Management
- * Forensik
+ * Digitale Forensik
 
 Publikation:
 -----------
@@ -109,10 +109,10 @@ Aktuelle Informationen:
 ----------------------
 
 über die Fachgruppe SIDAR:
-  http://www.gi-fg-sidar.de/
+  https://fg-sidar.gi.de/
 
 Anmeldung für den Email-Verteiler:
-  http://www.gi-fg-sidar.de/list.html
+  https://mail.gi-fb-sicherheit.de/
 
 zu SPRING: https://spring2018.oth-regensburg.de
 
